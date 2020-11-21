@@ -298,7 +298,8 @@ main {
 .hover-skills a:hover,
 .hover-skills a:focus {
   border-bottom-color: #7800c1;
-  font-weight: 600;
+  /* font-weight: 600; */
+   text-shadow: 0 0 0.6px black;
 }
 
 .max-content {
